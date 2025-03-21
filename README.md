@@ -19,3 +19,6 @@ OLA Data Analytics is the project based on the Data analysis of the OLA company 
 
 ## Dashboard
 <a href="https://github.com/Sagar0908/OLA-Data-Analysis/blob/main/OLA%20data%20Analyst.jpg">View Dashboard </a>
+
+## Conclusion
+The insights derived from this analysis will help Ola optimize its operations, improve customer satisfaction, and increase profitability. It will also guide decision-making regarding pricing strategies, demand forecasting, driver allocation, and marketing campaigns.
