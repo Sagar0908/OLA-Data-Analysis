@@ -18,4 +18,4 @@ OLA Data Analytics is the project based on the Data analysis of the OLA company 
 10. Customer vs. Driver Ratings
 
 ## Dashboard
-DashBoard Interaction <a href="https://github.com/Sagar0908/OLA-Data-Analysis/blob/main/OLA%20data%20Analyst.jpg">View Dashboard </a>
+<a href="https://github.com/Sagar0908/OLA-Data-Analysis/blob/main/OLA%20data%20Analyst.jpg">View Dashboard </a>
